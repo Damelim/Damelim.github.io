@@ -24,7 +24,7 @@ description              : "Academic blog post"
 url                      : "https://Damelim.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/swlim.png"
+teaser                   : #"/assets/images/swlim.png"
 logo                     : "/assets/images/swlim.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
